@@ -1,11 +1,17 @@
-animals = ['dog', 'cat']
+animals = ['dog', 'cat', 'hamster']
+
+# trailing comma X
 foods = [
     'coffee',
-    'water'
+    'water',
+    'ramen'
 ]
+
+# trailing comma O
 plants = [
     'cactus',
     'rose',
+    'tulip',
 ]
 
 
